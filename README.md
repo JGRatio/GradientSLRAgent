@@ -1,6 +1,6 @@
 # GradientMLRAgent
 
-Java based agent to determine the Regression Model for a Multiple Linear Regression using a Normal Equation approach.
+Java based agent to determine the Regression Model for a Simple Linear Regression using a Gradient Descent approach.
 
 The project consists of an Agent that calculates the regression model of a hardcoded data set. 
 The NormalEcuationMLR class contains the data set and the operations for the Gradient Descent approach. 
