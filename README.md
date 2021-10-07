@@ -1,4 +1,4 @@
-# GradientMLRAgent
+# GradientSLRAgent
 
 Java based agent to determine the Regression Model for a Simple Linear Regression using a Gradient Descent approach.
 
